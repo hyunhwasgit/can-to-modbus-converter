@@ -6,7 +6,10 @@ This repository provides network protocol(e.g. CAN, Modbus) materials to underst
 
 Eletronic devices related to BMS communicate information through protocols. Information can be used to monitor BMS and manage battery status.
 
-## Contents
+## Protocol Types
+
+- Modbus is simpler and more suitable for small systems with fewer devices, while CAN bus is more robust and more suitable for large systems with many nodes and high-reliability requirements. 
+- Both protocols have pros and cons and are used in different applications depending on the requirements.
 
 ### CAN
 - Bus-based communication protocol developed for the automotive industry in the mid-1980s but has since been widely adopted by other industries. 
@@ -21,11 +24,6 @@ Eletronic devices related to BMS communicate information through protocols. Info
 - Widely used in industrial automation for communication between programmable logic controllers (PLCs) and other devices such as sensors, HMIs, and drives. 
 - Master-slave architecture where the master initiates communication with the slave to retrieve data or send commands. 
 - Simple ASCII or binary protocol and can operate over RS-485 or TCP/IP networks.
-
-### CAN vs Modbus
-
-- Modbus is simpler and more suitable for small systems with fewer devices, while CAN bus is more robust and more suitable for large systems with many nodes and high-reliability requirements. 
-- Both protocols have pros and cons and are used in different applications depending on the requirements.
 
 ## References
 
