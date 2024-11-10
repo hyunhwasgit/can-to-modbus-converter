@@ -8,8 +8,7 @@ Eletronic devices related to BMS communicate information through protocols. Info
 
 ## Protocol Types
 
-- Modbus is simpler and more suitable for small systems with fewer devices, while CAN bus is more robust and more suitable for large systems with many nodes and high-reliability requirements. 
-- Both protocols have pros and cons and are used in different applications depending on the requirements.
+Modbus is simpler and more suitable for small systems with fewer devices, while CAN bus is more robust and more suitable for large systems with many nodes and high-reliability requirements. Both protocols have pros and cons and are used in different applications depending on the requirements.
 
 ### CAN
 - Bus-based communication protocol developed for the automotive industry in the mid-1980s but has since been widely adopted by other industries. 
