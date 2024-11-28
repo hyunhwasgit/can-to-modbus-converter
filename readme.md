@@ -4,21 +4,17 @@ This repository provides a converting feature from CAN to Modbus protocol.
 
 <br/>
 
-## Environment 
-
-- OS: macOS Sonoma 14.5
-- IDE: Visual Studio Code 1.93.1 (Universal)
-- PeakSystems Driver
-
 ## Requirements
 
-- H/W
-    - PCAN-USB
+```
+H/W
+ㄴ PCAN-USB
 
-- S/W
-    - PCAN-View
-    - Modbus Simulator
-    - Modbus Poll
+S/W
+ㄴ PCAN-View
+ㄴ Modbus Simulator
+ㄴ Modbus Poll
+```
 
 <br/>
 
