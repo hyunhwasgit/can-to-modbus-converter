@@ -6,7 +6,6 @@ This repository provides a converting feature from CAN to Modbus protocol.
 
 ## Requirements
 
-```
 H/W
 ㄴ PCAN-USB
 
@@ -14,7 +13,6 @@ S/W
 ㄴ PCAN-View
 ㄴ Modbus Simulator
 ㄴ Modbus Poll
-```
 
 <br/>
 
