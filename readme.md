@@ -1,6 +1,6 @@
-# Network
+# CAN TO MODBUS CONVERTER
 
-This repository provides network protocol(e.g. CAN, Modbus) materials to understand BMS(Battery Management System) architecture.
+This repository provides a converting feature from CAN to Modbus protocol.
 
 ## References
 
