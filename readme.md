@@ -4,14 +4,14 @@ This repository provides a converting feature from CAN to Modbus protocol.
 
 <br/>
 
-## Requirements
+### Requirements
 
 - H/W: PCAN-USB
 - S/W: PCAN-View, Modbus Simulator, Modbus Poll
 
 <br/>
 
-## References
+### References
 
 - <a href='https://www.port.de/fileadmin/user_upload/Dateien_IST_fuer_Migration/CAN20A.pdf'>CAN Specification 2.0 Part A</a>
 - <a href='https://affon.narod.ru/CAN/CAN20B.pdf'>CAN Specification 2.0 Part B</a>
